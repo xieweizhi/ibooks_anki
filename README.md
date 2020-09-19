@@ -1,7 +1,7 @@
 # ibooks_anki
 
 
-A tool to automate the process of create Anki flashcard from Apple Books __highlighted__ words and got them translated.
+A tool to automate the process of creating Anki flashcard from Apple Books __highlighted__ words and got them translated.
 
 
 ### How to:
