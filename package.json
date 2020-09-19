@@ -1,0 +1,16 @@
+{
+  "name": "ibooks_anki",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "ibooks-highlights": "^0.0.3",
+    "node-fetch": "^2.6.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
